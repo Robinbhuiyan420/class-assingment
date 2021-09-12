@@ -1,0 +1,10 @@
+body{
+    /* font-family: 'Roboto', sans-serif; */
+}
+.carousel-item{
+    height: 678px;
+    width: 1520px;
+}
+.carousel-caption{
+    bottom: 250px;
+}
